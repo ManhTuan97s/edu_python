@@ -33,10 +33,12 @@ sieu_nhan_3=SieuNhan(mau_sac="vang", so_luong_vu_khi=10)
 print(sieu_nhan_1.suc_manh)
 print(sieu_nhan_2.suc_manh)
 
-# lam the nao de sieu nhan 2 cap nhat suc manh cho ca gia dinh sieu 
+# lam the nao de sieu nhan 2 cap nhat suc manh cho ca gia dinh sieu nhan
+# giai quyet
 sieu_nhan_2.thay_doi_suc_manh(40)
 print("sieu_nhan_2.suc_manh", sieu_nhan_2.suc_manh)
 print("sieu_nhan_1.suc_manh", sieu_nhan_1.suc_manh)
+print("sieu_nhan_3.suc_manh", sieu_nhan_3.suc_manh)
 
 
 
