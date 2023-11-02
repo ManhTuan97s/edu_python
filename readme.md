@@ -1,4 +1,4 @@
-# Trinh bay cac buoc cua du an python
+# Trình bày các bước của dự án Python
 1. Tao folder du an
 2. Tao file readme.md de viet doc cho du an
 3. Cai dat python ban moi nhat
